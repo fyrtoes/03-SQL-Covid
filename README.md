@@ -1,7 +1,5 @@
-# 2022-p3-SQL-Covid
-
 # COVID data exploration with SQL queries
-* Obtained data from: https://ourworldindata.org/coronavirus
+* Obtained data from: [Source](https://ourworldindata.org/coronavirus)
 * Split raw data into two #.xlsx, then joined 
 * Compared values between countries and continents
 * Created new fields from calculations
